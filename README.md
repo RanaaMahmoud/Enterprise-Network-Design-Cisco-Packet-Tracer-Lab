@@ -139,8 +139,3 @@ This lab demonstrates:
 - WAN routing between multiple routers
 - Network security hardening techniques
 - Real-world troubleshooting scenarios
-
----
-
-## 📂 Author
-Network Security Lab Project – Designed for hands-on practice in enterprise networking and cybersecurity fundamentals.
