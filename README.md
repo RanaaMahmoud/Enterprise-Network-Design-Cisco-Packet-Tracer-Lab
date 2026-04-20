@@ -1,4 +1,7 @@
+<img src="images/network.png" width="400"/>
+
 # Enterprise Network Design – Cisco Packet Tracer Lab
+
 
 ## 📌 Overview
 This project is a complete enterprise network simulation built using Cisco Packet Tracer.  
