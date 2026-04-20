@@ -1,4 +1,4 @@
-<img src="images/network.png" width="400"/>
+<img src="Images/NetworkDiagram.png" width="400"/>
 
 # Enterprise Network Design – Cisco Packet Tracer Lab
 
